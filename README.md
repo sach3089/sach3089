@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sachin Chauhan
-- 👀 I have done Btech in ECE from NIT-Bhopal in June 2021 with a CGPA of 7.62
-- 🌱 I’m currently learning spring boot for backend and react.js for frontend.
+- 👋 Hi, I’m Sachin Chauhan currently working as a backend engineer in PureSoftware pvt ltd.
+- 👀 My Key sills are Java , SpringBoot , MySQL, Microservices, Linux , Docker
+- 🌱 I’m currently learning Microservices with SpringBoot
 - 💞️ I’m looking to collaborate on any java develpoment project
 - 📫 You can reach out to me via my email: sachinchauhan3089@gmail.com or +91-9113197632
 
