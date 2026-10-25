@@ -10,7 +10,7 @@
 
 I build Java services, connect distributed systems, and modernize legacy applications for AWS.
 
-[LinkedIn](https://www.linkedin.com/in/sachinch8/) · [X](https://x.com/SachinC27505791) · [Email](mailto:sachinchauhan3089@gmail.com)
+[Portfolio](https://sach3089.github.io/sachin-portfolio/) · [LinkedIn](https://www.linkedin.com/in/sachinch8/) · [X](https://x.com/SachinC27505791) · [Email](mailto:sachinchauhan3089@gmail.com)
 
 </div>
 
