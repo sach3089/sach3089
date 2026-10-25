@@ -1,3 +1,5 @@
+![Sachin Chauhan — From first commit to running in production](assets/banner.svg)
+
 <div align="center">
 
 # Hi, I'm Sachin Chauhan 👋
